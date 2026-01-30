@@ -1,0 +1,79 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+
+  <!-- HOME -->
+  <url>
+    <loc>https://en.stappamondo.com/</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- SIGNATURE JOURNEYS – HUB -->
+  <url>
+    <loc>https://en.stappamondo.com/signature-journeys</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- LANGHE – HUB -->
+  <url>
+    <loc>https://en.stappamondo.com/signature-journeys/langhe-food-wine-travel</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- LANGHE – ITINERARIES -->
+  <url>
+    <loc>https://en.stappamondo.com/signature-journeys/langhe-food-wine-travel/spring-grand-tour-langhe</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <url>
+    <loc>https://en.stappamondo.com/signature-journeys/langhe-food-wine-travel/langhe-in-bloom</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- LE MARCHE – HUB -->
+  <url>
+    <loc>https://en.stappamondo.com/signature-journeys/le-marche-food-wine-travel</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- LE MARCHE – PAGINA INTERMEDIA -->
+  <url>
+    <loc>https://en.stappamondo.com/signature-journeys/le-marche-food-wine-travel/le-marche-food-wine-tours</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- LE MARCHE – ITINERARIES -->
+  <url>
+    <loc>https://en.stappamondo.com/signature-journeys/le-marche-food-wine-travel/leopardi-literary-tour-recanati-italy</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <url>
+    <loc>https://en.stappamondo.com/signature-journeys/le-marche-food-wine-travel/EntroTerre-Borderland-Villages</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <url>
+    <loc>https://en.stappamondo.com/signature-journeys/le-marche-food-wine-travel/The-Path-of-Wonder</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- SERVIZI -->
+  <url>
+    <loc>https://en.stappamondo.com/our-services</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- ABOUT -->
+  <url>
+    <loc>https://en.stappamondo.com/about-us</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+  <!-- CONTACT -->
+  <url>
+    <loc>https://en.stappamondo.com/contact</loc>
+    <lastmod>2026-01-26</lastmod>
+  </url>
+
+</urlset>
